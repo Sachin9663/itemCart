@@ -1,0 +1,21 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+.total{
+    margin-top: 40px;
+    width: 100%;
+    border: 1px solid;
+    height: 40px;
+    padding-top: 7px;
+    border-radius: 3px;
+}
+
+.right{
+    float: right;
+    margin: 5px 30px;
+}
+.left{
+    margin: 0px 13px;
+}
